@@ -2,8 +2,8 @@ variable "region"{
     default = "ap-southeast-1"
 }
 provider "aws"{
-    access_key="AKIA54PBWAOHNVTJHVFP"
-    secret_key="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"
+    access_key=""
+    secret_key=""
     region = var.region
 }
 variable "ecs_key_pair_name" {
