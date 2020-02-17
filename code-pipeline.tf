@@ -1,5 +1,5 @@
 locals {
-    github_token = "204a6f6f7b484e702cde7898c2129c04cd62d0cb"
+    github_token = ""
   github_owner = "qassandrach"
   github_repo = "individual-project"
   github_branch = "master"
