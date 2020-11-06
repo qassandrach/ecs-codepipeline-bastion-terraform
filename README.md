@@ -1,3 +1,3 @@
-# INDIVIDUAL PROJECT RALALI INTERNSHIP
+# ECS Codepipeline ECR
 <br>
 Creating Cloud Infrastructure using terraform
